@@ -10,6 +10,7 @@
 teri.prototype = {
     initialize: function() {
 		gs.addErrorMessage("kahan")
+		gs.addErrorMessage("mujhe")
     },
 
     type: 'teri'
@@ -18,13 +19,13 @@ teri.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-13 17:01:36</sys_created_on>
         <sys_id>e92a11bedba233001f4b595fdf96199a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>teri</sys_name>
         <sys_package display_value="kabtak" source="x_kabtak">18f9997edba233001f4b595fdf96196b</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="kabtak">18f9997edba233001f4b595fdf96196b</sys_scope>
         <sys_update_name>sys_script_include_e92a11bedba233001f4b595fdf96199a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-13 17:01:52</sys_updated_on>
+        <sys_updated_on>2019-07-13 17:03:35</sys_updated_on>
     </sys_script_include>
 </record_update>
