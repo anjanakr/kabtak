@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>anjana</sys_created_by>
         <sys_created_on>2019-07-16 16:52:01</sys_created_on>
-        <sys_id>41c4343753223300cf70ddeeff7b12c6</sys_id>
+        <sys_id>c8bb8138133a3300027879d96144b02e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_kabtak_domeone</sys_name>
         <sys_package display_value="kabtak" source="x_kabtak">18f9997edba233001f4b595fdf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="kabtak">18f9997edba233001f4b595fdf96196b</sys_scope>
-        <sys_update_name>sys_dictionary_x_kabtak_domeone_null</sys_update_name>
-        <sys_updated_by>anjana</sys_updated_by>
-        <sys_updated_on>2019-07-16 16:52:01</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_kabtak_domeone_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-19 21:06:06</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

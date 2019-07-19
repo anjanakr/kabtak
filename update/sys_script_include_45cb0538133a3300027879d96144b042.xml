@@ -2,31 +2,29 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
-        <api_name>x_kabtak.teri</api_name>
+        <api_name>x_kabtak.isejuda</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
         <description/>
-        <name>teri</name>
-        <script><![CDATA[var teri = Class.create();
-teri.prototype = {
+        <name>isejuda</name>
+        <script><![CDATA[var isejuda = Class.create();
+isejuda.prototype = {
     initialize: function() {
-		gs.addErrorMessage("kahan")
-		gs.addErrorMessage("mera")
     },
 
-    type: 'teri'
+    type: 'isejuda'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-07-13 17:01:36</sys_created_on>
-        <sys_id>e92a11bedba233001f4b595fdf96199a</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>teri</sys_name>
+        <sys_created_on>2019-07-19 21:06:53</sys_created_on>
+        <sys_id>45cb0538133a3300027879d96144b042</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>isejuda</sys_name>
         <sys_package display_value="kabtak" source="x_kabtak">18f9997edba233001f4b595fdf96196b</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="kabtak">18f9997edba233001f4b595fdf96196b</sys_scope>
-        <sys_update_name>sys_script_include_e92a11bedba233001f4b595fdf96199a</sys_update_name>
+        <sys_update_name>sys_script_include_45cb0538133a3300027879d96144b042</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-13 17:04:29</sys_updated_on>
+        <sys_updated_on>2019-07-19 21:06:53</sys_updated_on>
     </sys_script_include>
 </record_update>
